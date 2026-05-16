@@ -1,0 +1,2 @@
+import FAQSection from '../components/FAQSection.jsx';
+export default function FAQ() { return <main><section className="bg-zinc-950 px-4 py-16 text-white sm:px-6 lg:px-8"><div className="mx-auto max-w-7xl"><h1 className="text-4xl font-semibold">FAQ</h1><p className="mt-3 text-white/75">Answers are intentionally practical and confirm sensitive details on WhatsApp.</p></div></section><FAQSection /></main>; }
